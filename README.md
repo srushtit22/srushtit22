@@ -4,12 +4,17 @@
 I am a recent graduate passionate about designing and building efficient, scalable data architecture and pipelines. I focus on extracting, transforming, and loading structured and unstructured data to make it analytics-ready.
 
 ---
+🧠 About Me
+🌍 Location: Maharashtra, India
+🏆 Goal: Continuously learning and growing into a skilled data engineer capable of solving complex data platform challenges.
+🎓 Passion: Exploring distributed computing to turn raw data into actionable intelligence.
 
+---
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python, SQL, Bash 
+* **Languages:** Python, SQL 
 * **Data Processing & Orchestration:** PySpark, Apache Airflow
 * **Databases & Warehousing:** MySQL, Snowflake
-* **Cloud & DevOps:** AWS (S3, Lambda, Glue), Docker, Git
+* **Cloud & Systems:** AWS (S3, Lambda, Glue), Docker, Git, Linux
 
 ---
 
