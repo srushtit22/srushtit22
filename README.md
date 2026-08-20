@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Srushti Sanjay Todkar. 👋
 
-<!--
-**srushtit22/srushtit22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Data Engineer
+I am a recent graduate passionate about designing and building efficient, scalable data architecture and pipelines. I focus on extracting, transforming, and loading structured and unstructured data to make it analytics-ready.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, SQL, Bash 
+* **Data Processing & Orchestration:** PySpark, Apache Airflow
+* **Databases & Warehousing:** MySQL, Snowflake
+* **Cloud & DevOps:** AWS (S3, Lambda, Glue), Docker, Git
+
+---
+
+### 🌱 What I'm Currently Learning / Working On
+* ⚡ Building end-to-end ETL/ELT pipelines using Airflow.
+* ☁️ Designing cloud-native data warehouses on AWS.
+* 📊 Practicing dimensional modeling (Star Schema, Snowflake Schema).
+
+---
+
+### 📬 How to Reach Me
+* **LinkedIn:** [https://www.linkedin.com/in/srushti-todkar/]
+* **Email:** [srushtitodkar80@gmail.com]
+
